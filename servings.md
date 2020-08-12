@@ -2,7 +2,7 @@
 
 | GROUP | MIN | MAX | SERVING SIZE |
 |:-----:|:---:|:---:|:------------:|
-|Grains |  6d  |  8d  | 1 slice whole toast, 30g dry cereal, 1/2 cup cooked cereal/rice/pasta |
+|Grains |  4d  |  6d  | 1 slice whole toast, 30g dry cereal, 1/2 cup cooked cereal/rice/pasta |
 |Vegetables |3d|  6d  | 1 cup raw leafy, 1/2 cup cut raw or cooked vegetables |
 |Fruits |  4d  |  5d  | 1 medium fruit, 1/2 cup fresh |
 |Lean meats, poultry and fish| 6d | 10d | 1 egg, 2 egg whites, 1 cup fat-free yogurt, 30g proteins cooked |
