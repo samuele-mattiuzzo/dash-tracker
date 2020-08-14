@@ -1,4 +1,6 @@
 ### Week 1
-|Mon|Tue|Weds|Thu|Fri|Sat|Sun|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Str/Pow - 90mins - med/hard| rest | Pow/End - 120mins - med | Str/Pow - 90 mins - med/hard| rest | Str - 90mins - med | End - 120mins - easy/med |
+|Type|Mon|Tue|Weds|Thu|Fri|Sat|Sun|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|5/2|Train| Climb MoonBoard | Climb MoonBoard | ClimbAutobelay| Train | rest | rest |
+|2/1/3/1|Train| Climb MoonBoard | rest | Climb MoonBoard | Climb AutoBelay | Train | Weights/Train |
+|2/1|Train| Climb MoonBoard | rest | Climb MoonBoard | Climb AutoBelay + Train| rest | rest/light |
