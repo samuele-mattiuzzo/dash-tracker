@@ -1,4 +1,4 @@
-** Meat / Poultry / Seafood (hand-size portion for lean, palm size portion for fatty) **
+## Meat / Poultry / Seafood (hand-size portion for lean, palm size portion for fatty)
 
 - Chicken
 - Turkey
@@ -10,7 +10,7 @@
 - Eggs
 - Swordfish
 
-** Vegetables (5+ serving a day, 1 cup = 2 palms or 1/2 cup starchy/cooked = 1 palm) **
+## Vegetables (5+ serving a day, 1 cup = 2 palms or 1/2 cup starchy/cooked = 1 palm)
 
 - Asparagus
 - Broccoli
@@ -31,30 +31,30 @@
 - Spinach
 - Zucchini
 
-** Nuts / Seeds / Nut butters **
+## Nuts / Seeds / Nut butters
 
 - Pumpkin, Sunflower, Sesame, Flax seeds (1-2 tsp)
 - Chia, Hemp seeds (moderation, 1/4 cup)
 - Pecan, Pistachios (5-10 max)
 
-** Fats / Oils **
+## Fats / Oils
 
 - Olive oil (2 tsp)
 - Avocado (1/4)
 
-** Fruits **
+## Fruits
 
 - Lemon
 - Lime
 
 
-** In moderation **
+## In moderation
 - Grains and legumes (rice, oats, quinoa, lentils, chickpeas, beans - 1/2 cup cooked / 1 cup if no carbs prior or training day)
 - Small green apple, Blueberries (0.5 cup), Green-ish banana (morning or on training day)
 - Beets, butternut squash, pumpkin (1 cup max)
 
 
-** Avoid (triggers) **
+## Avoid (triggers)
 - Any dairy
 - Processed/refined sugars
 - Biscuits
