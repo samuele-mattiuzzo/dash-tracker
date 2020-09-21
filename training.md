@@ -1,4 +1,25 @@
-### Training
+### Dumbbell workout one (30 minutes)
+
+| Type | Exercises | Repetitions | Sets | Rest/set | Rest |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|x | One arm squat to shoulder press | 10 x side | amrap | 0 | 0 |
+|x | One arm floor chest flye | 8 x side | amrap | 0 | 0 |
+|x | Turkish get up | 4 x side | amrap | 0 | 0 |
+|x | Sumo squat to upright row | 8 | amrap | 0 | 0 |
+|x | Plank to renegade row | 6 x side | amrap | 0 | 0 |
+|x | Weighted crunch | 12 | amrap | 0 | 0 |
+
+### Dumbbell workout two - supersets (50-60 minutes)
+
+| Type | Exercises | Repetitions | Sets | Rest/set | Rest |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|x | Overhead press + shoulder shrug | 12 | 4 | 45-60s | 30s |
+|x | Floor press + bent over row | 12 | 4 | 45-60s | 30s |
+|x | Deadlift + side-by-side/halo | 12 | 4 | 45-60s | 30s |
+|x | Bycep curls + overhead tricep extension | 12 | 4 | 45-60s | 30s |
+|x | crunches + floor leg lifts + ankle touches | 25 | 4 | 45-60s | 30s |
+
+### Climbing extra training
 
 | Type | Exercises | Repetitions | Sets | Rest/set | Rest |
 |:-:|:-:|:-:|:-:|:-:|:-:|
