@@ -52,6 +52,7 @@
 - Grains and legumes (rice, oats, quinoa, lentils, chickpeas, beans - 1/2 cup cooked / 1 cup if no carbs prior or training day)
 - Small green apple, Blueberries (0.5 cup), Green-ish banana (morning or on training day)
 - Beets, butternut squash, pumpkin (1 cup max)
+- Sweet potato (1 medium, 130-150g, ~100cal)
 
 
 ## Avoid (triggers)
