@@ -6,11 +6,11 @@
 | :----: | :----: | :----: | :----: | :----: | :----: |
 |Alfalfa sprouts|Quinoa|Apple|Chicken|Almonds|Olive oil (1-2tsp)|
 |Artichoke|Rice: brown, black, red|Blueberries|Turkey|Flax|Avocado (1/8)|
-|Artichoke hearts|Oats|Strawberries|Egg white|Pumpkin|
-|Asparagus|Chia seeds|Banana|Fish, shellfish|Sunflower|
+|Artichoke hearts|Oats|Strawberries|Egg white|Pumpkin|Peanut butter (1 tbsp)|
+|Asparagus|Chia seeds|Banana|Fish, shellfish|Sunflower|Mixed nuts (1 tbsp)|
 |Beans: Italian, green, yellow, wax||Pear|Tofu|
-|Bean sprouts||Grapefruit|Egg||Peanut butter (1 tbsp)|
-|Broccoli|||Chicken/turkey (dark meat)||Mixed nuts (1 tbsp)|
+|Bean sprouts||Grapefruit|Egg|
+|Broccoli|||Chicken/turkey (dark meat)|
 |Brussels sprouts|||Pork loin, chop, cutlets|
 |Cabbage|||Peanut butter|
 |Carrots|
