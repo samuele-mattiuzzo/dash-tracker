@@ -9,8 +9,8 @@
 |Artichoke hearts|Oats|Strawberries|Egg white|Pumpkin|
 |Asparagus|Chia seeds|Banana|Fish, shellfish|Sunflower|
 |Beans: Italian, green, yellow, wax||Pear|Tofu|
-|Bean sprouts||Grapefruit|Egg|Peanut butter (1 tbsp)|
-|Broccoli|||Chicken/turkey (dark meat)|Mixed nuts (1 tbsp)|
+|Bean sprouts||Grapefruit|Egg||Peanut butter (1 tbsp)|
+|Broccoli|||Chicken/turkey (dark meat)||Mixed nuts (1 tbsp)|
 |Brussels sprouts|||Pork loin, chop, cutlets|
 |Cabbage|||Peanut butter|
 |Carrots|
