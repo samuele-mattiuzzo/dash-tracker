@@ -1,35 +1,37 @@
-### Dumbbell workout one (30 minutes)
+### Home wall workouts
 
 | Type | Exercises | Repetitions | Sets | Rest/set | Rest |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|x | One arm squat to shoulder press | 10 x side | amrap | 0 | 0 |
-|x | One arm floor chest flye | 8 x side | amrap | 0 | 0 |
-|x | Turkish get up | 4 x side | amrap | 0 | 0 |
-|x | Sumo squat to upright row | 8 | amrap | 0 | 0 |
-|x | Plank to renegade row | 6 x side | amrap | 0 | 0 |
-|x | Weighted crunch | 12 | amrap | 0 | 0 |
+|str | ???? | ??? | ??? | ??? | ??? |
+|pow | Campus (ladders, bumps, touches) | till power fails | amrap | / | long 3+ minutes |
+|pow/end | Pyramid feet on | 60/120/180/120/60s | 2 | 60/120/180/120/60s | 5m |
+|end | Timed feet on | 5m | 6-10 | 5m | back to back |
 
-### Dumbbell workout two - supersets (50-60 minutes)
+### Fingerboard workouts
+
+| Type | Exercises | Rounds | Reps | Hang | Pause | Rest |
+|:-:|:-:|:-:|:-:|:-:|:-:| :-: |
+|str | Max hangs | 6-10 | 1 | 10s | / | 2m |
+|pow/str | Repeaters | 2-3 | 6/12 | 7s | 3s | 3m |
+
+
+### Core Workouts
+
+| Type | Exercises | Rounds | Reps/time on | Pause | Rest |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|x | Floor core (plank, side planks, hollow hold) | 12 | 60s | 30s | back to back |
+|x | Floor finisher (crunches, heel taps, leg raises) | 4 | 25 | / | 30s |
+|x | Hanging touches LeftL, RightL, LeftR, RightL, BothL, BothR | 2 rounds | 3 | 45s-1m | 5m |
+
+### Kettlebell workouts
 
 | Type | Exercises | Repetitions | Sets | Rest/set | Rest |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|x | Overhead press + shoulder shrug | 12 | 4 | 45-60s | 30s |
-|x | Floor press + bent over row | 12 | 4 | 45-60s | 30s |
-|x | Deadlift + side-by-side/halo | 12 | 4 | 45-60s | 30s |
-|x | Bycep curls + overhead tricep extension | 12 | 4 | 45-60s | 30s |
-|x | crunches + floor leg lifts + ankle touches | 25 | 4 | 45-60s | 30s |
-
-### Climbing extra training
-
-| Type | Exercises | Repetitions | Sets | Rest/set | Rest |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|PullUps | Normal, Wide, Narrow, ChinUp, OffsetL, OffsetR, Normal, Wide, Narrow, Wide | 10 | 1 | 45s-1m | 5m |
-|PushUps | Normal, Wide, Triceps, Spiderman alternating legs, OffsetL, OffsetR | 15-20 | 4 * | 45s-1m | 5m |
-|LegRaises | LeftL, RightL, LeftR, RightL, BothL, BothR | 2 rounds | 3 | 45s-1m | 5m |
-|Core | Crunches, LegRaises, AnkleTouches, [BycicleCrunches, RussianTwists, HollowHold] | 15-20 | 4 * | 45s-1m | 5m |
+|str | S&S (100 1h swings, 10 turkish get ups) | 10 swings / 1 tgu | 10 m / 5 m | emom | back to back |
+|pow/aero | 300 2h swings (max weight) | 10-15 | 30m / 20m | emom | back to back |
 
 
 ### Week
 |Type|Mon|Tue|Weds|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|5/2|Climb POW| Train + Climb End | Train + Climb End | Climb Boulders| Train | rest | rest |
+|x| x | x | x | x | x | x | x |
