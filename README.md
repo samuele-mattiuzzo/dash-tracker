@@ -1,6 +1,3 @@
-# DASH TRACKER
-
-
 ### Home wall workouts
 
 | Type | Exercises | Repetitions | Sets | Rest/set | Rest |
