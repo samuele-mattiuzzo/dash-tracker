@@ -2,10 +2,10 @@
 
 | Phase | Length (weeks) | Training focus | Blocks |
 |:-:|:-:|:-:|:-:|
-| 1 | 3 | Low volume max strength & power training (anaerobic alactic focus) | 2-3x boulder, 1-2x fun, 3x max fb, 2x conditioning |
+| 1 | 3 | Low volume max strength & power training (anaerobic alactic focus) | 2-3x boulder/pow, 1-2x fun, 3x max fb, 2x conditioning |
 | 2 | 2 | Moderate volume strength/power-endurance training (anaerobic lactic focus) | 2-3x pe/4x4, 1-2x fun, 3x repeater fb, 2x conditioning |
 | 3 | 1 | Pre-trip taper / 3 - 7 days active recovery | cycle, 2-3x fun/volume, 3-5x light conditioning |
-| _4 (optional)_ | _4_ | _ARC and aerobic conditioning_ | _3x arc, 1-2x fb, 1-2x conditioning_ |
+| _(optional)_ | _4_ | _ARC and aerobic conditioning_ | _3x arc, 1-2x fb, 1-2x conditioning_ |
 
 ```
 Note: 
@@ -15,6 +15,7 @@ for on-season "maintainance" use a week-long microcycle
      - low volume max strength & power training (anaerobic alactic focus)
      - strength/power-endurance training (anaerobic lactic focus)
   - 2 days of rest
+ARC: add the 4-weeks phase at the top
 ```
 ---
 
@@ -35,9 +36,9 @@ Note:
 
 ### On-the-wall sessions
 
-| Type | Exercises | Rounds | Reps/time on | Pause | Rest |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-
+| Type | Description | Focus |
+|:-:|:-:|:-:|
+| | | |
 ```
 Note:
 ```
