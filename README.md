@@ -34,11 +34,48 @@ Note:
 ```
 ---
 
-### On-the-wall sessions
+### Sessions
 
-| Type | Description | Focus |
-|:-:|:-:|:-:|
-| | | |
+```
+Strength/Power session
+  - Warm-up
+    - 5-10m general mobility/stretch
+    - Scapular pull ups + power pull ups
+    - Boulder build up to limit
+  - Max/limit bouldering + pow
+    - 2-5 boulders (limit/1 grade within limit), 1m rest per move, 3+m rest per attempt
+    - campus (135/147, long reaches, bumps) 2sets each side, 2-3m rest
+  - Finger flexor str/pow
+    - max hangs / 1 arm / min edge / lock offs
+  - Core + stabilizer work
+```
+
+```
+Strength/Power endurance session
+  - Warm-up
+    - 5-10m general mobility/stretch
+    - Scapular pull ups + power pull ups emom
+    - Boulder build up to limit
+  - Power/strength-endurance bouldering
+    - 4x4/6x3 AN-CAP 1 minute rest/rep, 3-4m rest/set (powered out, 75-80% max grade)
+    - circuit single lap (for AERO-POW, double the lap) 1m rest/rep (1 rep = 1/2 laps), 10m rest/set, 5 sets
+  - Finger flexor str/pow
+    - repeaters / 1 arm / lock offs
+    - campus punk AN-CAP (feet on campus board long moves + 1 boulder problem, 3-5 sets, appropriate rest)
+  - Core + stabilizer work
+```
+
+```
+Conditioning/antags session (little/no climbing)
+  - Warm-up
+    - 5-10m general mobility/stretch
+    - Scapular pull ups + power pull ups emom
+    - Boulder for volume
+  - Conditioning
+    - ...
+  - Core + stabilizer work
+```
+
 ```
 Note:
 ```
