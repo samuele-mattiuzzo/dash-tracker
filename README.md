@@ -72,12 +72,15 @@ Conditioning/antags session (little/no climbing)
     - Scapular pull ups + power pull ups emom
     - Boulder for volume
   - Conditioning
-    - ...
+
   - Core + stabilizer work
 ```
 
 ```
 Note:
+    - Session should be roughly 1 hr long
+    - Go through 15 exercises (push, pull, posterior chain, T-Y-I, legs), 3/4 sets, 8-12 reps, appropriate rest
+    - Form is extremely important
 ```
 ---
 
