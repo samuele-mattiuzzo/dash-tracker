@@ -84,14 +84,3 @@ Note:
   - do 1x type end of every session
 
 ```
----
-
-### Week microcycle
-|Type|Mon|Tue|Weds|Thu|Fri|Sat|Sun|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|x| x | x | x | x | x | x | x |
-
-```
-Note:
-```
----
