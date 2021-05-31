@@ -9,13 +9,13 @@
 
 ```
 Note: 
-for on-season "maintainance" use a week-long microcycle
+for on-season use a week-long microcycle
   - 2x days: stabilizer & antagonist training (submaximal "recovery", aerobic system focus - optional)
   - 1-2x days: climbing days, fun + either
      - low volume max strength & power training (anaerobic alactic focus)
      - strength/power-endurance training (anaerobic lactic focus)
   - 2 days of rest
-ARC: add the 4-weeks phase at the top
+ARC: add the 4-weeks phase first
 ```
 ---
 
@@ -61,7 +61,7 @@ Strength/Power endurance session
     - circuit single lap (for AERO-POW, double the lap) 1m rest/rep (1 rep = 1/2 laps), 10m rest/set, 5 sets
   - Finger flexor str/pow
     - repeaters / 1 arm / lock offs
-    - campus punk AN-CAP (feet on campus board long moves + 1 boulder problem, 3-5 sets, appropriate rest)
+    - campus AN-CAP (feet on campus board long moves + 1 boulder problem, 3-5 sets, appropriate rest)
   - Core + stabilizer work
 ```
 
@@ -69,36 +69,20 @@ Strength/Power endurance session
 Conditioning/antags session (little/no climbing)
   - Warm-up
     - 5-10m general mobility/stretch
-    - Scapular pull ups + power pull ups emom
     - Boulder for volume
-  - Conditioning
-
-  - Core + stabilizer work
+  - Conditioning (~1hr, 3/4 sets, 8/12 reps, 2+ m rest)
+    - 3x pull exercises (pull ups, rows, uneven pull ups, one hand negatives)
+    - 3x push exercises (push ups, dips, pike push up, band shoulder press)
+    - 3x leg exercises (squats, lunges, pistol progression)
+    - 3x core exercises
+    - rotator cuff + TYI + lower body mobility
 ```
 
 ```
 Note:
-    - Session should be roughly 1 hr long
-    - Go through 15 exercises (push, pull, posterior chain, T-Y-I, legs), 3/4 sets, 8-12 reps, appropriate rest
-    - Form is extremely important
-```
----
+  - conditioning is very important, do 2x week
+  - do 1x type end of every session
 
-### Conditioning/antagonists/core workouts
-
-| Type | Exercises | Reps | Sets | Rest |
-|:-:|:-:|:-:|:-:|:-:|
-| antags | push (trx p.up, pike p.up, dips) | 10-20 | 3 each | 60-90s reps, 120s exercises |
-| antags | pull (5x5 weight/pow p.up, rows) | 10-20 | 3 each | 60-90s reps, 120s exercises |
-| core | plank, side plank, hollow hold | 30-60s | 4 | 30s reps, back to back sets |
-| core | hanging knees-elbows/lying leg raises, high-feet crunches/trx crunches, front levers | 30-60s | 4 | 30s reps, back to back sets |
-| cond/stabilizer | int/ext rotation, scapular p.up, shrugs, pistol squats | 10-20 | 3-5 each | 90-120s |
-
-```
-Note:
-- conditioning is very important, maintain 2x week
-- try to add core at the end of every session
-- alternate antags, aim for 3x week (best 4x, 2 each)
 ```
 ---
 
