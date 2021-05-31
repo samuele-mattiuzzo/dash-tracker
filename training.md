@@ -39,11 +39,11 @@ Note:
 ```
 Strength/Power session
   - Warm-up
-    - 5-10m general mobility/stretch
+    - 5-10m general mobility/stretch (duck walks, 4 points rotation)
     - Scapular pull ups + power pull ups
     - Boulder build up to limit
   - Max/limit bouldering + pow
-    - 2-5 boulders (limit/1 grade within limit), 1m rest per move, 3+m rest per attempt
+    - limit/1 grade within limit, 1m rest per move, 3+m rest per attempt, stop when power falters
     - campus (135/147, long reaches, bumps) 2sets each side, 2-3m rest
   - Finger flexor str/pow
     - max hangs / 1 arm / min edge / lock offs
@@ -53,7 +53,7 @@ Strength/Power session
 ```
 Strength/Power endurance session
   - Warm-up
-    - 5-10m general mobility/stretch
+    - 5-10m general mobility/stretch (duck walks, 4 points rotation)
     - Scapular pull ups + power pull ups emom
     - Boulder build up to limit
   - Power/strength-endurance bouldering
@@ -70,28 +70,17 @@ Conditioning/antags session (little/no climbing)
   - Warm-up
     - 5-10m general mobility/stretch
     - Boulder for volume
-  - Conditioning (~1hr, 3/4 sets, 8/12 reps, 2+ m rest)
-    - 3x pull exercises (pull ups, rows, uneven pull ups, one hand negatives)
-    - 3x push exercises (push ups, dips, pike push up, band shoulder press)
-    - 3x leg exercises (squats, lunges, pistol progression)
-    - 3x core exercises
-    - rotator cuff + TYI + lower body mobility
+  - Conditioning (~1hr, 3/4 sets, 8/12 reps, 2+ m rest, 1-2 es per type)
+    - pull exercises (pull ups, rows, uneven pull ups, one hand negatives) - don't do if body aches/after session
+    - push exercises (push ups, dips, pike push up, band shoulder press)
+    - leg exercises (squats, lunges, pistol progression)
+    - core exercises (plank/side/hollow holds, 25x b2b crunches/leg raises/toe touches, knees-to-bar)
+    - lower body mobility (lizard/half-pidgeon poses, legs up the wall https://www.instagram.com/p/BsfXFSFhWbQ/)
 ```
 
 ```
 Note:
   - conditioning is very important, do 2x week
   - do 1x type end of every session
-
+  - lower body mobility extremely important, do 1 stretch + legs up the wall every day
 ```
----
-
-### Week microcycle
-|Type|Mon|Tue|Weds|Thu|Fri|Sat|Sun|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|x| x | x | x | x | x | x | x |
-
-```
-Note:
-```
----
