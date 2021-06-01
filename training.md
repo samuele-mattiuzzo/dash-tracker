@@ -77,7 +77,7 @@ Note:
 ### Conditioning/antags session (little/no climbing)
 ```
   - Warm-up  (10m general mobility/stretch/pulse raisers) [optional: 30m light boulders]
-  - Conditioning (45-60s rest between giant sets)
+  - Conditioning (b2b, 45-60s rest/set, 2m rest/giant set)
     - 3x12-15 bar shrugs
     - PUSH 3x8-12 trx tricep extensions + trx push ups + trx flys (no-equip: push ups/handstand push up)
     - PULL 3x8-12 trx rows + trx bicep pulls + p4x5 TWY (no-equip: rows/pull ups)
