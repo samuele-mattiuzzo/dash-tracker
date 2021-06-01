@@ -27,8 +27,9 @@
 
 ### 01 06 2021 - cond / rest
 ```
-- am: 5x5 weighted pull ups before work
-- pm: 
+- am: 5x6-7 weighted pull ups before work (10kg), pidgeon/lizard poses stretches
+- pm: dips/press, pistol squats (assisted), 1-arm lock-offs, lower-body mobility routine
+- overall rest day
 ```
 
 ### 31 05 2021 - pow  str
