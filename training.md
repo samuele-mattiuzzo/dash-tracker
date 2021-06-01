@@ -49,6 +49,7 @@ Note:
   - proper campus 2x week, fresh; 1x focus on woody, 1 on hard boulders (fun session)
   - steep and crimpy priority for strength
   - finger flexor work in the morning, train in the evening
+  - skills to practice: boulder lock-offs, big moves on big holds, boulder campus
 ```
 
 ### Strength/Power endurance session
