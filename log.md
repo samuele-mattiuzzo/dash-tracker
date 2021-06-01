@@ -28,8 +28,14 @@
 ### 01 06 2021 - cond / rest
 ```
 - am: 5x6-7 weighted pull ups before work (10kg), pidgeon/lizard poses stretches
-- pm: dips/press, pistol squats (assisted), 1-arm lock-offs, lower-body mobility routine
-- overall rest day
+- pm: conditioning
+    - 3x10 shrugs
+    - 3x12 trx tricep extensions + trx push ups
+    - 3x12 trx rows + 3x5 TWY
+    - 3x3 each arm one hand lock off (3-5s)
+    - 3x12 trx crunches + pike
+    - 3 sets of lower body mobility, 3x10 inner/outer rotation each arm
+- overall rest day; had usual breakfast and lunch, no crap, 1 black coffee + 1 flat white, half a ham sandwich and satsuma before workout, felt great
 ```
 
 ### 31 05 2021 - pow  str
