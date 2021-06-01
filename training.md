@@ -48,6 +48,13 @@ Strength/Power session
   - Finger flexor str/pow
     - max hangs / 1 arm / min edge / lock offs
   - Core + stabilizer work
+
+
+Note:
+  - high energy demands; low volume, high effort; come in well fueled try not heavy; hydrate
+  - proper campus 2x week, fresh; 1x focus on woody, 1 on hard boulders (fun session)
+  - steep and crimpy priority for strength
+  - finger flexor work in the morning, train in the evening
 ```
 
 ```
@@ -63,24 +70,30 @@ Strength/Power endurance session
     - repeaters / 1 arm / lock offs
     - campus AN-CAP (feet on campus board long moves + 1 boulder problem, 3-5 sets, appropriate rest)
   - Core + stabilizer work
+ 
+
+Note:
+  - prepare boulders for 4x4 before the phase starts
+  - stop when power drops!!!
+  - finger flexor work on alternate days
+  - max 2x p/e sessions in a week (2 fun climbing days, power centric)
+  - 1x week max hangs, 2x week repeaters
 ```
 
 ```
 Conditioning/antags session (little/no climbing)
-  - Warm-up
-    - 5-10m general mobility/stretch
-    - Boulder for volume
-  - Conditioning (~1hr, 3/4 sets, 8/12 reps, 2+ m rest, 1-2 es per type)
-    - pull exercises (pull ups, rows, uneven pull ups, one hand negatives) - don't do if body aches/after session
-    - push exercises (push ups, dips, pike push up, band shoulder press)
-    - leg exercises (squats, lunges, pistol progression)
-    - core exercises (plank/side/hollow holds, 25x b2b crunches/leg raises/toe touches, knees-to-bar)
-    - lower body mobility (lizard/half-pidgeon poses, legs up the wall https://www.instagram.com/p/BsfXFSFhWbQ/)
-```
+  - Warm-up  (10m general mobility/stretch/pulse raisers) [optional: 30m light boulders]
+  - Conditioning (45-60s rest between giant sets)
+    - 3x12-15 bar shrugs
+    - PUSH 3x8-12 trx tricep extensions + trx push ups + trx flys (no-equip: push ups/handstand push up)
+    - PULL 3x8-12 trx rows + trx bicep pulls + p4x5 TWY (no-equip: rows/pull ups)
+    - LEGS 3x8-12 trx one leg squat (each leg) (no-equip: air/pistol squat/lunges)
+    - CORE 3x15-20 trx crunches + trx pike + side crucnches (no-equip: crunches/leg raises/knees-to-elbows/toe taps)
+    - 3x3 each arm one hand lock off (3-5s)    
+    - 3 sets of lizard/half-pidgeon poses, legs up the wall, 3x10 inner/outer rotation each arm
 
-```
 Note:
   - conditioning is very important, do 2x week
-  - do 1x type end of every session
+  - do 1 exercise per type after climbing sessions, for muscle balance, not strength/hypertrophy
   - lower body mobility extremely important, do 1 stretch + legs up the wall every day
 ```
