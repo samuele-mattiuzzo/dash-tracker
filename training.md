@@ -1,5 +1,4 @@
 ### 321 macrocycle
-
 | Phase | Length (weeks) | Training focus | Blocks |
 |:-:|:-:|:-:|:-:|
 | 1 | 3 | Low volume max strength & power training (anaerobic alactic focus) | 2-3x boulder/pow, 1-2x fun, 3x max fb, 2x conditioning |
@@ -17,10 +16,8 @@ for on-season use a week-long microcycle
   - 2 days of rest
 ARC: add the 4-weeks phase first
 ```
----
 
 ### Fingerboard routines
-
 | Block | Grips | Hang time | Pause | Reps | Sets | Rest |
 |:-:|:-:|:-:|:-:|:-:|:-:| :-: |
 | max | open hand, half crimp, front+back 3 | 5-8s | emom | 4-6 | 1x grip | 3+ minutes |
@@ -32,12 +29,9 @@ Note:
 - target max: 95% bw (eg: +52kg added / one-hand hang w 3-5kg assistance)
 - if no weights are available, take fingers off one hand, switch between reps
 ```
----
 
-### Sessions
-
+### Strength/Power session
 ```
-Strength/Power session
   - Warm-up
     - 5-10m general mobility/stretch (duck walks, 4 points rotation)
     - Scapular pull ups + power pull ups
@@ -57,8 +51,8 @@ Note:
   - finger flexor work in the morning, train in the evening
 ```
 
+### Strength/Power endurance session
 ```
-Strength/Power endurance session
   - Warm-up
     - 5-10m general mobility/stretch (duck walks, 4 points rotation)
     - Scapular pull ups + power pull ups emom
@@ -80,8 +74,8 @@ Note:
   - 1x week max hangs, 2x week repeaters
 ```
 
+### Conditioning/antags session (little/no climbing)
 ```
-Conditioning/antags session (little/no climbing)
   - Warm-up  (10m general mobility/stretch/pulse raisers) [optional: 30m light boulders]
   - Conditioning (45-60s rest between giant sets)
     - 3x12-15 bar shrugs
