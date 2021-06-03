@@ -1,4 +1,5 @@
 ### 321 macrocycle
+
 | Phase | Length (weeks) | Training focus | Blocks |
 |:-:|:-:|:-:|:-:|
 | 1 | 3 | Low volume max strength & power training (anaerobic alactic focus) | 2-3x boulder/pow, 1-2x fun, 3x max fb, 2x conditioning |
@@ -18,6 +19,7 @@ ARC: add the 4-weeks phase first
 ```
 
 ### Fingerboard routines
+
 | Block | Grips | Hang time | Pause | Reps | Sets | Rest |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | max | open hand, half crimp, front+back 3 | 5-8s | emom | 4-6 | 1x grip | 3+ minutes |
