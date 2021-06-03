@@ -19,7 +19,7 @@ ARC: add the 4-weeks phase first
 
 ### Fingerboard routines
 | Block | Grips | Hang time | Pause | Reps | Sets | Rest |
-|:-:|:-:|:-:|:-:|:-:|:-:| :-: |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | max | open hand, half crimp, front+back 3 | 5-8s | emom | 4-6 | 1x grip | 3+ minutes |
 | repeater | open hand, 3f pockets, slopers | 7s | 3s | 6x grip | 1-3 sets | 2-3m reps, 10-12m sets |
 
