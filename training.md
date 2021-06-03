@@ -7,6 +7,7 @@
 | 3 | 1 | Pre-trip taper / 3 - 7 days active recovery | cycle, 2-3x fun/volume, 3-5x light conditioning |
 | _(optional)_ | _4_ | _ARC and aerobic conditioning_ | _3x arc, 1-2x fb, 1-2x conditioning_ |
 
+
 ```
 Note: 
 for on-season use a week-long microcycle
@@ -25,6 +26,7 @@ ARC: add the 4-weeks phase first
 | max | open hand, half crimp, front+back 3 | 5-8s | emom | 4-6 | 1x grip | 3+ minutes |
 | repeater | open hand, 3f pockets, slopers | 7s | 3s | 6x grip | 1-3 sets | 2-3m reps, 10-12m sets |
 
+
 ```
 Note:
 - current max: 59kg bw + 25kg added
@@ -33,6 +35,7 @@ Note:
 ```
 
 ### Strength/Power session
+
 ```
   - Warm-up
     - 5-10m general mobility/stretch (duck walks, 4 points rotation)
@@ -55,6 +58,7 @@ Note:
 ```
 
 ### Strength/Power endurance session
+
 ```
   - Warm-up
     - 5-10m general mobility/stretch (duck walks, 4 points rotation)
@@ -78,6 +82,7 @@ Note:
 ```
 
 ### Conditioning/antags session (little/no climbing)
+
 ```
   - Warm-up  (10m general mobility/stretch/pulse raisers) [optional: 30m light boulders]
   - Conditioning (b2b, 45-60s rest/set, 2m rest/giant set)
