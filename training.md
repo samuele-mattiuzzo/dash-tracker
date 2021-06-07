@@ -84,7 +84,9 @@ Notes:
     - Scapular pull ups + power pull ups emom
     - Boulder build up to limit
   - Power/strength-endurance bouldering
-    - 4x4/6x3 AN-CAP 1 minute rest/rep, 3-4m rest/set (powered out, 75-80% max grade)
+    - 4x4/6x3 AN-CAP 1 minute rest/rep, 1:1 work/rest ratio, climbs back to back (powered out, 75-80% max grade)
+    - Foot-on campus: 90s sets (30on/60off), 10 sets (15m total), progress by adding work and reducing rest
+      start with bigger rungs, reduce as it gets easier
     - circuit single lap (for AERO-POW, double the lap) 1m rest/rep (1 rep = 1/2 laps), 10m rest/set, 5 sets
   - Finger flexor str/pow
     - repeaters / 1 arm / lock offs
