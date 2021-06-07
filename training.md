@@ -17,6 +17,16 @@ for on-season use a week-long microcycle
      - strength/power-endurance training (anaerobic lactic focus)
   - 2 days of rest
 ARC: add the 4-weeks phase first
+
+Trying hard:
+ High intensity training looks more like:
+   1-3 move sequences on holds that are difficult for you to use.
+   Short sequences or single moves that are body position and core intensive, requiring maximum full body effort to complete.  
+   Short, heavy hangs on bad holds.
+   Brief, explosive movements on the campus board, lasting no more than a few seconds.
+ An easy way to gauge it all is that if you feel at all tired muscularly,
+ but can still complete the exercise you've been doing,
+ then it is far too middle to be  called high intensity.  
 ```
 
 ### Fingerboard routines
@@ -34,27 +44,36 @@ Note:
 - if no weights are available, take fingers off one hand, switch between reps
 ```
 
-### Strength/Power session
+### Strength session
 
 ```
-  - Warm-up
-    - 5-10m general mobility/stretch (duck walks, 4 points rotation)
-    - Scapular pull ups + power pull ups
-    - Boulder build up to limit
-  - Max/limit bouldering + pow
-    - limit/1 grade within limit, 1m rest per move, 3+m rest per attempt, stop when power falters
-    - campus (135/147, long reaches, bumps) 2sets each side, 2-3m rest
-  - Finger flexor str/pow
-    - max hangs / 1 arm / min edge / lock offs
+Focus is on forearm hypertrophy as well as strengthening the core, upper arms, shoulders, and back
+
+  - Warm up by bouldering, finishing with a few difficult repeats 2-3 V grades below maximum
+  - 60-90 minutes max bouldering (1-3 move sequences) or system board (1-3 move sequences)
+    Focus is on static movement, lock-offs, pulling in underclings, etc..  Lots of rest between attempts
+  - Hangboard. Maximum Weight hangs
+  - Sport Specific Training. Pullups, rows, muscleups, dips, pushups, and hanging core work.
+    Use rings/trx
+  - Core + stabilizer work
+```
+
+### Power session
+
+```
+Focus is on explosive movement and muscle recruitment.
+
+  - Warm up by bouldering, finishing with a few difficult repeats 2-3 V grades below maximum.
+  - 45-60 minutes recruitment bouldering (3-5 move sequences) or same on the system board. 
+    Focus is on big, powerful movement. Deadpoints.
+    Opt for big moves that require tension to hold. Lots of rest between attempts.
+  - Hangboard -> min edge hangs
+  - Campus ~1hr, big movements and plyometrics.
+  - Sport Specific Training. Only on days when not campusing.
   - Core + stabilizer work
 
-
-Note:
-  - high energy demands; low volume, high effort; come in well fueled try not heavy; hydrate
-  - proper campus 2x week, fresh; 1x focus on woody, 1 on hard boulders (fun session)
-  - steep and crimpy priority for strength
-  - finger flexor work in the morning, train in the evening
-  - skills to practice: boulder lock-offs, big moves on big holds, boulder campus
+Notes:
+  - campus: 1-2 days per week only
 ```
 
 ### Strength/Power endurance session
