@@ -116,7 +116,7 @@ Note:
     - 3 sets of lizard/half-pidgeon poses, legs up the wall, 3x10 inner/outer rotation each arm
 
 Note:
-  - conditioning is very important, do 2x week
+  - conditioning is very important, save at least 1x sessions per week for them
   - do 1 exercise per type after climbing sessions, for muscle balance, not strength/hypertrophy
   - lower body mobility extremely important, do 1 stretch + legs up the wall every day
 ```
